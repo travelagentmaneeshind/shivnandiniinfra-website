@@ -51,3 +51,8 @@ lives.
 
 This same CLAUDE.md pattern also exists in `YEIDA_website` and
 `khet-chalo-website` — keep them consistent when updating the rules.
+
+## Full portfolio
+See `PORTFOLIO.md` in `travelagentmaneeshind/YEIDA_website` for the
+complete map of all of Maneesh's web properties, Vercel projects/domains,
+connector status, and known gaps.
